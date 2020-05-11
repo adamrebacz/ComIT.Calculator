@@ -85,8 +85,8 @@ namespace ComIT.Calculator
                                 if (Double.TryParse(_values[0], style, culture, out NumberOne) &&
                                         Double.TryParse(_values[1], style, culture, out NumberTwo))
                                 {
-                                    Console.WriteLine("Converted '{0}' to {1}.", _values[0], NumberOne);
-                                    Console.WriteLine("Converted '{0}' to {1}.", _values[1], NumberTwo);
+                                    //Console.WriteLine("Converted '{0}' to {1}.", _values[0], NumberOne);
+                                    //Console.WriteLine("Converted '{0}' to {1}.", _values[1], NumberTwo);
 
                                     Console.WriteLine("Resault: " + (double)(NumberOne - NumberTwo));
                                 }

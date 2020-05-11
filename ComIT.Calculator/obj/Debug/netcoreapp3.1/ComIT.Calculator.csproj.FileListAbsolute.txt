@@ -1,0 +1,12 @@
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/bin/Debug/netcoreapp3.1/ComIT.Calculator.deps.json
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/bin/Debug/netcoreapp3.1/ComIT.Calculator.runtimeconfig.json
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/bin/Debug/netcoreapp3.1/ComIT.Calculator.runtimeconfig.dev.json
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/bin/Debug/netcoreapp3.1/ComIT.Calculator.dll
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/bin/Debug/netcoreapp3.1/ComIT.Calculator.pdb
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.csprojAssemblyReference.cache
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.csproj.CoreCompileInputs.cache
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.AssemblyInfoInputs.cache
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.AssemblyInfo.cs
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.dll
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.pdb
+/Users/przemyslawrebacz/Projects/ComIT/ComIT.Calculator/ComIT.Calculator/obj/Debug/netcoreapp3.1/ComIT.Calculator.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ComIT.Calculator/1.0.0": {
+        "runtime": {
+          "ComIT.Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComIT.Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

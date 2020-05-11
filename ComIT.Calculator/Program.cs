@@ -9,6 +9,7 @@ namespace ComIT.Calculator
         {
             CultureInfo culture = CultureInfo.CreateSpecificCulture("en-US");
             NumberStyles style = NumberStyles.AllowDecimalPoint | NumberStyles.AllowLeadingSign | NumberStyles.AllowThousands;
+            //
             try
             {
                 String _rl = Console.ReadLine();
@@ -24,8 +25,8 @@ namespace ComIT.Calculator
                                 string[] _values = _rl.Split(_mathFunc);
                                 if (_values.Length == 2)
                                 {
-                                    double NumberOne;
-                                    double NumberTwo;
+                                    double NumberOne; //test
+                                    double NumberTwo; //test
 
                                     if (Double.TryParse(_values[0], style, culture, out NumberOne) &&
                                         Double.TryParse(_values[1], style, culture, out NumberTwo))

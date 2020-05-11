@@ -12,6 +12,11 @@ namespace ComIT.Calculator
             //
             try
             {
+                Console.WriteLine("This is a sample calculator for ComIT course");
+                Console.WriteLine("Basic operation are as follow: +,-,* and /");
+                Console.WriteLine("It works with Integers and doubles and with negative numbers");
+                Console.WriteLine("type inline basic operation like: 1+10 or 3.25 - 0.23");
+
                 String _rl = Console.ReadLine();
                 while (CheckESC(_rl))
                 {
@@ -31,8 +36,8 @@ namespace ComIT.Calculator
                                     if (Double.TryParse(_values[0], style, culture, out NumberOne) &&
                                         Double.TryParse(_values[1], style, culture, out NumberTwo))
                                     {
-                                        Console.WriteLine("Converted '{0}' to {1}.", _values[0], NumberOne);
-                                        Console.WriteLine("Converted '{0}' to {1}.", _values[1], NumberTwo);
+                                        //Console.WriteLine("Converted '{0}' to {1}.", _values[0], NumberOne);
+                                        //Console.WriteLine("Converted '{0}' to {1}.", _values[1], NumberTwo);
 
                                         if (_mathFunc.Equals("+"))
                                         {
